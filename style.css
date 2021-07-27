@@ -104,6 +104,41 @@ body{
     padding: 15px;
 }
 
+/* fleeexx    */
+/*     */
+.restaurant__images__container {
+    width: 100%;
+}
+
+.restaurant__images__row__one, 
+.restaurant__images__row__two {
+    width: 100%;
+}
+
+.restaurant__image__1 {
+    width: 100%;
+}
+
+.restaurant__image__2 {
+    width: 100%;
+}
+
+.restaurant__image__3 {
+    width: 100%;
+}
+
+.restaurant__image__4 {
+    width: 100%;
+}
+
+.restaurant__image__1, 
+.restaurant__image__1,
+.restaurant__image__1,
+.restaurant__image__1 {
+    width: 100%;
+}
+
+
 
 @media (min-width: 768px){
     .navbar{
